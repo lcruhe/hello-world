@@ -1,6 +1,7 @@
 # hello-world
 Just another repository
 
-Gut Tag, Leute
+Guten Tag, 
 
-Jetzt lerne ich Swift 4 und möchte meine eigene App entwickeln.
+Jetzt lerne ich Swift 4 und Deutsch.
+Ich möchte eine iOS App entwickeln.
